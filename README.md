@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/guruprasath), [Twitter](https://www.twitter.com/guruprasath)
 - 😄 Pronouns: His/Him/He
 - ⚡ Fun fact: ...
+
+# My Learning Roadmap 
+[![roadmap.sh](https://roadmap.sh/card/wide/65ce9552cba7f7159fc1bba4?variant=dark)](https://roadmap.sh)
