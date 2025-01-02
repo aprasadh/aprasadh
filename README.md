@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: His/Him/He
 - ⚡ Fun fact: ...
 
-# My Learning Roadmap 
+# My Learning [Roadmap](https://roadmap.sh/u/guru) 
 [![roadmap.sh](https://roadmap.sh/card/wide/65ce9552cba7f7159fc1bba4?variant=dark)](https://roadmap.sh)
